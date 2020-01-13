@@ -1,0 +1,12 @@
+{
+  "name": "etaxinvoice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rathanont/etaxinvoice.git",
+  "author": "rathanont <rathanont.s@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
